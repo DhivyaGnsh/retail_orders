@@ -7388,7 +7388,7 @@
         "colab": {
           "base_uri": "https://localhost:8080/"
         },
-        "collapsed": true,
+        "collapsed": True,
         "id": "MbmvRIJxWezn",
         "outputId": "9d22e7dc-9acf-43f9-ee87-52fbcc9e3123"
       },
@@ -7677,7 +7677,7 @@
         "colab": {
           "base_uri": "https://localhost:8080/"
         },
-        "collapsed": true,
+        "collapsed": True,
         "id": "I5y0q3B5J0cO",
         "outputId": "be08d537-ea10-4c71-9a1e-c396f51c0d32"
       },
