@@ -7920,7 +7920,7 @@
         "colab": {
           "base_uri": "https://localhost:8080/"
         },
-        "collapsed": true,
+        "collapsed": True,
         "id": "7PHWw5j57Kvz",
         "outputId": "970e5d85-ae3a-4bb6-ec5b-68d43efeca6c"
       },
