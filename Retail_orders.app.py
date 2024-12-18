@@ -7870,7 +7870,7 @@
         "id": "-TUEsD5cAPsB",
         "outputId": "d84831cb-d153-4b4f-9b6c-36181eb41c0a"
       },
-      "execution_count": Null,
+      "execution_count": None,
       "outputs": [
         {
           "output_type": "stream",
