@@ -7333,7 +7333,7 @@
         "colab": {
           "base_uri": "https://localhost:8080/"
         },
-        "collapsed": true,
+        "collapsed": True,
         "id": "DMe0RVcuO2x7",
         "outputId": "0b93cbc0-74bc-49bb-cf37-c965f2bdec50"
       },
@@ -7533,7 +7533,7 @@
         "colab": {
           "base_uri": "https://localhost:8080/"
         },
-        "collapsed": true,
+        "collapsed": True,
         "id": "ZEWQSav_bqnA",
         "outputId": "f87215ce-8fff-4a68-b69e-f8045fb42d6e"
       },
@@ -7795,7 +7795,7 @@
         },
         "id": "-Ow8-x-nMV9W",
         "outputId": "edbd5173-da48-4b1c-e32a-e51f28eb3c1f",
-        "collapsed": true
+        "collapsed": True
       },
       "execution_count": 82,
       "outputs": [
@@ -7870,7 +7870,7 @@
         "id": "-TUEsD5cAPsB",
         "outputId": "d84831cb-d153-4b4f-9b6c-36181eb41c0a"
       },
-      "execution_count": null,
+      "execution_count": Null,
       "outputs": [
         {
           "output_type": "stream",
@@ -7983,7 +7983,7 @@
         "colab": {
           "base_uri": "https://localhost:8080/"
         },
-        "collapsed": true,
+        "collapsed": True,
         "id": "IZJ9r7Cq75Ju",
         "outputId": "3d90f90d-4307-4703-ed53-5e6aee5bd4eb"
       },
@@ -8046,7 +8046,7 @@
         "colab": {
           "base_uri": "https://localhost:8080/"
         },
-        "collapsed": true,
+        "collapsed": True,
         "id": "_puzIPdc-7Oc",
         "outputId": "d41dddbf-23ff-411f-c27d-04bb34a59a23"
       },
@@ -8080,7 +8080,7 @@
         "colab": {
           "base_uri": "https://localhost:8080/"
         },
-        "collapsed": true,
+        "collapsed": True,
         "id": "ZkmSjLvS_Kry",
         "outputId": "6b96268b-7c68-4e07-d4e1-5c87fcd19967"
       },
@@ -8118,7 +8118,7 @@
         "pip install --upgrade streamlit"
       ],
       "metadata": {
-        "collapsed": true,
+        "collapsed": True,
         "colab": {
           "base_uri": "https://localhost:8080/"
         },
@@ -8181,7 +8181,7 @@
     "colab": {
       "provenance": [],
       "authorship_tag": "ABX9TyPrWQlG6wbYvyYsb/Y63vAg",
-      "include_colab_link": true
+      "include_colab_link": True
     },
     "kernelspec": {
       "display_name": "Python 3",
